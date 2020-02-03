@@ -1,6 +1,4 @@
 My first github commit 
 adding something
 
-this is matt
-
-this is no longer matt
+this is leah
